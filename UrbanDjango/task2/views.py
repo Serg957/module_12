@@ -13,4 +13,3 @@ class ViewByClass(TemplateView):
 
 # Create your views here.
 
-
